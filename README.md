@@ -4,170 +4,173 @@
 
 ### 💻 Frontend Developer | 🤖 AI Automation Specialist
 
-Building modern web applications, AI agents, chatbots and intelligent automation systems.
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ghousdeveloper&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views">
-
-<br><br>
+Building modern web experiences, intelligent automations, AI agents and practical software solutions.
 
 <a href="https://github.com/ghousdeveloper">
-<img src="https://img.shields.io/github/followers/ghousdeveloper?style=for-the-badge&logo=github&label=Followers" alt="Followers">
+  <img src="https://komarev.com/ghpvc/?username=ghousdeveloper&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </a>
 
+<br/>
+
+<a href="https://github.com/ghousdeveloper?tab=followers">
+  <img src="https://img.shields.io/github/followers/ghousdeveloper?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+</a>
 <a href="https://github.com/ghousdeveloper?tab=repositories">
-<img src="https://img.shields.io/github/stars/ghousdeveloper?style=for-the-badge&logo=github&label=Stars" alt="Stars">
-</a>
-
-<a href="mailto:ghouskalwar@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+  <img src="https://img.shields.io/github/stars/ghousdeveloper?label=Total%20Stars&style=for-the-badge&logo=github" alt="GitHub Stars"/>
 </a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 I'm **Ghulam Ghous**, a passionate **Frontend Developer and AI Automation Specialist** from Pakistan.
 
-I love building modern, responsive and user-friendly digital products. My work combines frontend development with AI, automation and API integrations to create practical solutions for real-world problems.
+I enjoy turning ideas into modern, responsive and functional digital products. My work focuses on building user-friendly web applications, AI-powered systems and automation workflows that solve real-world problems.
 
-- 💻 Frontend Developer
-- 🤖 AI Automation Specialist
-- 🧠 AI Agents & AI Chatbots
-- ⚡ n8n Automation
-- 🔗 API Integration
-- 🌐 Modern Web Applications
-- 🛒 E-commerce Development
-- 📊 Admin Dashboards
-- 🏥 Healthcare Management Systems
-- 🚀 SaaS Applications
+* 💻 Frontend Developer focused on modern web applications
+* 🤖 Building AI Agents, AI Chatbots and automation workflows
+* ⚡ Working with APIs, integrations and business automation
+* 🌐 Interested in SaaS, web applications and digital products
+* 🧠 Continuously learning new technologies
+* 🤝 Open to collaboration, freelance projects and innovative ideas
+* 🇵🇰 Based in Pakistan
 
 ---
 
-# 🔭 Currently Working On
+## 🔭 What I'm Working On
 
 ### 🛒 Zero Bazar
 
-A modern e-commerce platform designed for the Pakistan market with a responsive shopping experience.
+A modern e-commerce platform focused on creating a smooth and responsive online shopping experience.
 
 ### 🏥 Hospital Management System
 
-A complete healthcare management platform for patients, doctors, departments, appointments, payments and administration.
+A complete digital healthcare management solution with patient management, appointments, doctors, departments, payments and administration.
 
-### 🤖 AI Automation Systems
+### 🤖 AI Automation
 
-Building AI-powered workflows, chatbots, AI agents and business automation solutions using modern AI technologies.
-
----
-
-# 🧠 What I Do
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🌐 Frontend Development
-
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- Responsive UI
-- Modern Web Design
-- Admin Dashboards
-
-</td>
-
-<td width="50%">
-
-## 🤖 AI Automation
-
-- AI Agents
-- AI Chatbots
-- n8n Automation
-- WhatsApp Automation
-- API Integrations
-- AI Workflows
-- Business Automation
-- AI Voice Systems
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## ⚙️ Full Stack Development
-
-- Node.js
-- Express.js
-- REST APIs
-- MongoDB
-- PostgreSQL
-- MySQL
-- Authentication
-- Backend Systems
-
-</td>
-
-<td width="50%">
-
-## 🚀 Digital Products
-
-- SaaS Platforms
-- E-commerce
-- Healthcare Systems
-- Business Websites
-- Automation Dashboards
-- AI-powered Applications
-- Custom Software
-
-</td>
-
-</tr>
-</table>
+Building AI-powered workflows, chatbots and intelligent agents that automate repetitive business tasks.
 
 ---
 
-# 🛠️ Technologies & Tools
+## 🧠 My Focus Areas
 
-## Frontend
+```text
+Frontend Development
+████████████████████████████████████████  90%
+
+AI Automation
+██████████████████████████████████████    85%
+
+AI Agents & Chatbots
+██████████████████████████████████████    85%
+
+Backend Development
+████████████████████████████████████      80%
+
+API Integration
+██████████████████████████████████████    85%
+
+UI/UX Implementation
+████████████████████████████████████      80%
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### 🌐 Frontend
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="Frontend Technologies">
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML"/>
+</a>
+<a href="https://www.w3.org/Style/CSS/">
+<img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript"/>
+</a>
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript"/>
+</a>
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" height="45" alt="React"/>
+</a>
+<a href="https://nextjs.org/">
+<img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js"/>
+</a>
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS"/>
+</a>
+<a href="https://redux.js.org/">
+<img src="https://skillicons.dev/icons?i=redux" height="45" alt="Redux"/>
+</a>
 </p>
 
-## Backend & Database
+### ⚙️ Backend & Databases
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mongodb,mysql,postgres" alt="Backend Technologies">
-
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js"/>
+</a>
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" height="45" alt="Express.js"/>
+</a>
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+</a>
+<a href="https://www.php.net/">
+<img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP"/>
+</a>
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB"/>
+</a>
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
+</a>
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL"/>
+</a>
 </p>
 
-## AI & Automation
+### 🤖 AI & Automation
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=n8n,openai,gemini,zapier" alt="AI Automation Technologies">
-
+<a href="https://n8n.io/">
+<img src="https://skillicons.dev/icons?i=n8n" height="45" alt="n8n"/>
+</a>
+<a href="https://openai.com/">
+<img src="https://skillicons.dev/icons?i=openai" height="45" alt="OpenAI"/>
+</a>
+<a href="https://www.google.com/gemini/">
+<img src="https://skillicons.dev/icons?i=gemini" height="45" alt="Gemini"/>
+</a>
+<a href="https://zapier.com/">
+<img src="https://skillicons.dev/icons?i=zapier" height="45" alt="Zapier"/>
+</a>
 </p>
 
-## Tools
+### 🧰 Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,firebase" alt="Development Tools">
-
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
+</a>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+</a>
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker"/>
+</a>
+<a href="https://www.figma.com/">
+<img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma"/>
+</a>
+<a href="https://firebase.google.com/">
+<img src="https://skillicons.dev/icons?i=firebase" height="45" alt="Firebase"/>
+</a>
 </p>
 
 ---
@@ -176,19 +179,25 @@ Building AI-powered workflows, chatbots, AI agents and business automation solut
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ghousdeveloper&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub Stats">
+<a href="https://github.com/ghousdeveloper">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ghousdeveloper&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="Ghulam Ghous GitHub Stats"/>
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghousdeveloper&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages">
+<a href="https://github.com/ghousdeveloper">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghousdeveloper&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+</a>
 
 </div>
 
 ---
 
-# 🔥 GitHub Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ghousdeveloper&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak">
+<a href="https://github.com/ghousdeveloper">
+<img src="https://streak-stats.demolab.com?user=ghousdeveloper&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak"/>
+</a>
 
 </div>
 
@@ -198,137 +207,183 @@ Building AI-powered workflows, chatbots, AI agents and business automation solut
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghousdeveloper&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Ghulam%20Ghous%20-%20Contribution%20Activity" width="100%" alt="Contribution Activity Graph">
-
-</div>
-
----
-
-# 🟩 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/0e75b6/ghousdeveloper" alt="GitHub Contribution Calendar">
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ghousdeveloper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=7" alt="GitHub Trophies">
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ghousdeveloper/zero-bazar">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ghousdeveloper&repo=zero-bazar&theme=tokyonight&hide_border=true" alt="Zero Bazar">
-
-</a>
-
-<a href="https://github.com/ghousdeveloper/hospital-management-system">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ghousdeveloper&repo=hospital-management-system&theme=tokyonight&hide_border=true" alt="Hospital Management System">
-
+<a href="https://github.com/ghousdeveloper">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghousdeveloper&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="GitHub Activity Graph"/>
 </a>
 
 </div>
 
 ---
 
-# 🤖 AI Automation Portfolio
+# 🏆 GitHub Achievements
 
-## 💬 AI Chatbots
+<div align="center">
 
-Building intelligent chatbots for websites and businesses with AI-powered conversations and API integrations.
+<a href="https://github.com/ghousdeveloper">
+<img src="https://github-profile-trophy.vercel.app/?username=ghousdeveloper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
+</a>
 
-## 🔗 WhatsApp AI Automation
-
-Automated customer communication, lead handling, appointment booking and business workflows.
-
-## ⚙️ n8n Automation
-
-Creating automated workflows that connect AI models, APIs, databases and business applications.
-
-## 🧠 AI Agents
-
-Building intelligent agents capable of processing information, making decisions and performing automated tasks.
-
-## 🎙️ AI Voice Systems
-
-Exploring AI-powered voice interviews, voice assistants and automated communication systems.
+</div>
 
 ---
 
-# 🏥 Projects & Solutions
+# ⭐ Featured Projects
 
-### Hospital Management System
+<div align="center">
 
-A complete healthcare management solution including:
+<a href="https://github.com/ghousdeveloper">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ghousdeveloper&repo=zero-bazar&theme=tokyonight&hide_border=true" alt="Zero Bazar"/>
+</a>
 
-- Patient Management
-- Doctor Management
-- Departments
-- Online Appointments
-- Token System
-- Payment Management
-- Admin Dashboard
-- Reports
-- Scheduling
+<a href="https://github.com/ghousdeveloper">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ghousdeveloper&repo=hospital-management-system&theme=tokyonight&hide_border=true" alt="Hospital Management System"/>
+</a>
 
-### Zero Bazar
+</div>
 
-Modern e-commerce platform featuring:
+> **Note:** Replace `zero-bazar` and `hospital-management-system` with your exact GitHub repository names if they are different.
 
-- Product Management
-- Categories
-- Shopping Cart
-- Responsive UI
-- Search
-- Checkout
-- Admin Dashboard
-- SEO-friendly architecture
+---
 
-### AI HR Recruitment System
+# 🤖 AI Automation
 
-AI-powered recruitment automation featuring:
+I build practical AI-powered automation systems designed to reduce repetitive work and improve business workflows.
 
-- Resume Screening
-- Candidate Analysis
-- AI Interviews
-- Subject Matching
-- Candidate Management
-- Automation Workflows
+### What I Build
+
+* 🤖 AI Agents
+* 💬 AI Chatbots
+* 📱 WhatsApp Automation
+* 🔄 n8n Automation Workflows
+* 🧠 AI-powered Business Workflows
+* 🔗 API Integrations
+* 📊 AI Dashboards
+* ⚡ Automated Lead & Customer Management
+* 🎙️ AI Voice Systems
+* 📄 AI Document / Resume Processing
+
+---
+
+# 💼 Services
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+* Responsive Websites
+* Business Websites
+* Web Applications
+* E-commerce Websites
+* SaaS Platforms
+* Admin Dashboards
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Automation
+
+* AI Agents
+* AI Chatbots
+* WhatsApp Automation
+* n8n Workflows
+* API Integrations
+* Business Process Automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎨 Frontend Development
+
+* React.js
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Responsive UI
+* Modern Web Interfaces
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Full-Stack Solutions
+
+* Node.js
+* Express.js
+* MongoDB
+* PostgreSQL
+* MySQL
+* REST APIs
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 📚 Currently Learning
 
-- 📊 Data Analytics
-- 📈 Business Intelligence
-- 🤖 Advanced AI Agents
-- 🧠 Agentic AI
-- ⚙️ Advanced Automation
-- ☁️ Cloud Technologies
-- 🔗 Advanced API Integrations
+* 📊 Data Analytics
+* 📈 Business Intelligence
+* 🤖 Advanced AI Agents
+* 🧠 Agentic AI
+* ⚙️ Advanced Automation
+* ☁️ Modern Cloud Technologies
 
 ---
 
-# 🎯 My Development Goals
+# 🤝 Let's Collaborate
 
-```text
-Frontend Development     ████████████████████  90%
-AI Automation            ██████████████████░░  85%
-AI Agents                ██████████████████░░  85%
-API Integration          ██████████████████░░  85%
-Backend Development      ████████████████░░░░  80%
-UI/UX                    ████████████████░░░░  80%
-Data Analytics           █████████████░░░░░░░  65%
+I'm interested in collaborating on:
+
+* 🚀 Startups
+* 💻 Web Applications
+* 🤖 AI Automation Projects
+* 🧠 AI Agent Systems
+* 🏥 Healthcare Software
+* 🛒 E-commerce Platforms
+* ☁️ SaaS Products
+* 🌐 Open Source Projects
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ghousdeveloper">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ghulam-ghous-36301b425/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:ghouskalwar@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Ask Me About
+
+**Frontend Development • React • Next.js • TypeScript • AI Automation • AI Agents • AI Chatbots • n8n • APIs • Full-Stack Development**
+
+---
+
+<div align="center">
+
+### 🚀 Building. Automating. Learning. Growing.
+
+**Thanks for visiting my GitHub profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="Footer"/>
+
+</div>

@@ -1,34 +1,389 @@
-<h1 align="center">Hi 👋, I'm Ghulam Ghous</h1>
-<h3 align="center">A passionate Frontend Developer | AI Automation from Pakistan</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghousdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ghousdeveloper" /> </p>
+# 👋 Hi, I'm Ghulam Ghous
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghousdeveloper" alt="ghousdeveloper" /></a> </p>
+### 💻 Frontend Developer | 🤖 AI Automation Specialist
 
-- 🔭 I’m currently working on **Zero Bazar**
+Building modern web experiences, intelligent automations, AI agents and practical software solutions.
 
-- 🌱 I’m currently learning **Data Analytic Business Inteligence**
+<a href="https://github.com/ghousdeveloper">
+  <img src="https://komarev.com/ghpvc/?username=ghousdeveloper&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
 
-- 👯 I’m looking to collaborate on **Hospital Management System**
+<br/>
 
-- 🤝 I’m looking for help with **Portfolio**
+<a href="https://github.com/ghousdeveloper?tab=followers">
+  <img src="https://img.shields.io/github/followers/ghousdeveloper?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+</a>
+<a href="https://github.com/ghousdeveloper?tab=repositories">
+  <img src="https://img.shields.io/github/stars/ghousdeveloper?label=Total%20Stars&style=for-the-badge&logo=github" alt="GitHub Stars"/>
+</a>
 
-- 💬 Ask me about **Full Stack Dev**
+</div>
 
-- 📫 How to reach me **ghouskalwar@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 About Me
+
+I'm **Ghulam Ghous**, a passionate **Frontend Developer and AI Automation Specialist** from Pakistan.
+
+I enjoy turning ideas into modern, responsive and functional digital products. My work focuses on building user-friendly web applications, AI-powered systems and automation workflows that solve real-world problems.
+
+* 💻 Frontend Developer focused on modern web applications
+* 🤖 Building AI Agents, AI Chatbots and automation workflows
+* ⚡ Working with APIs, integrations and business automation
+* 🌐 Interested in SaaS, web applications and digital products
+* 🧠 Continuously learning new technologies
+* 🤝 Open to collaboration, freelance projects and innovative ideas
+* 🇵🇰 Based in Pakistan
+
+---
+
+## 🔭 What I'm Working On
+
+### 🛒 Zero Bazar
+
+A modern e-commerce platform focused on creating a smooth and responsive online shopping experience.
+
+### 🏥 Hospital Management System
+
+A complete digital healthcare management solution with patient management, appointments, doctors, departments, payments and administration.
+
+### 🤖 AI Automation
+
+Building AI-powered workflows, chatbots and intelligent agents that automate repetitive business tasks.
+
+---
+
+## 🧠 My Focus Areas
+
+```text
+Frontend Development
+████████████████████████████████████████  90%
+
+AI Automation
+██████████████████████████████████████    85%
+
+AI Agents & Chatbots
+██████████████████████████████████████    85%
+
+Backend Development
+████████████████████████████████████      80%
+
+API Integration
+██████████████████████████████████████    85%
+
+UI/UX Implementation
+████████████████████████████████████      80%
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### 🌐 Frontend
+
 <p align="left">
-<a href="https://dev.to/ghousdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ghousdeveloper" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ghulam-ghous-kalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ghulam-ghous-kalwar" height="30" width="40" /></a>
-<a href="https://fb.com/ghous kalwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghous kalwar" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML"/>
+</a>
+<a href="https://www.w3.org/Style/CSS/">
+<img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript"/>
+</a>
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript"/>
+</a>
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" height="45" alt="React"/>
+</a>
+<a href="https://nextjs.org/">
+<img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js"/>
+</a>
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS"/>
+</a>
+<a href="https://redux.js.org/">
+<img src="https://skillicons.dev/icons?i=redux" height="45" alt="Redux"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+### ⚙️ Backend & Databases
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghousdeveloper&show_icons=true&locale=en&layout=compact" alt="ghousdeveloper" /></p>
+<p align="left">
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js"/>
+</a>
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" height="45" alt="Express.js"/>
+</a>
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+</a>
+<a href="https://www.php.net/">
+<img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP"/>
+</a>
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB"/>
+</a>
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
+</a>
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL"/>
+</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghousdeveloper&show_icons=true&locale=en" alt="ghousdeveloper" /></p>
+### 🤖 AI & Automation
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghousdeveloper&" alt="ghousdeveloper" /></p>
+<p align="left">
+<a href="https://n8n.io/">
+<img src="https://skillicons.dev/icons?i=n8n" height="45" alt="n8n"/>
+</a>
+<a href="https://openai.com/">
+<img src="https://skillicons.dev/icons?i=openai" height="45" alt="OpenAI"/>
+</a>
+<a href="https://www.google.com/gemini/">
+<img src="https://skillicons.dev/icons?i=gemini" height="45" alt="Gemini"/>
+</a>
+<a href="https://zapier.com/">
+<img src="https://skillicons.dev/icons?i=zapier" height="45" alt="Zapier"/>
+</a>
+</p>
+
+### 🧰 Tools
+
+<p align="left">
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
+</a>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+</a>
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker"/>
+</a>
+<a href="https://www.figma.com/">
+<img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma"/>
+</a>
+<a href="https://firebase.google.com/">
+<img src="https://skillicons.dev/icons?i=firebase" height="45" alt="Firebase"/>
+</a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/ghousdeveloper">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ghousdeveloper&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="Ghulam Ghous GitHub Stats"/>
+</a>
+
+<a href="https://github.com/ghousdeveloper">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghousdeveloper&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+</a>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/ghousdeveloper">
+<img src="https://streak-stats.demolab.com?user=ghousdeveloper&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak"/>
+</a>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/ghousdeveloper">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghousdeveloper&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="GitHub Activity Graph"/>
+</a>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/ghousdeveloper">
+<img src="https://github-profile-trophy.vercel.app/?username=ghousdeveloper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
+</a>
+
+</div>
+
+---
+
+# ⭐ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ghousdeveloper">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ghousdeveloper&repo=zero-bazar&theme=tokyonight&hide_border=true" alt="Zero Bazar"/>
+</a>
+
+<a href="https://github.com/ghousdeveloper">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ghousdeveloper&repo=hospital-management-system&theme=tokyonight&hide_border=true" alt="Hospital Management System"/>
+</a>
+
+</div>
+
+> **Note:** Replace `zero-bazar` and `hospital-management-system` with your exact GitHub repository names if they are different.
+
+---
+
+# 🤖 AI Automation
+
+I build practical AI-powered automation systems designed to reduce repetitive work and improve business workflows.
+
+### What I Build
+
+* 🤖 AI Agents
+* 💬 AI Chatbots
+* 📱 WhatsApp Automation
+* 🔄 n8n Automation Workflows
+* 🧠 AI-powered Business Workflows
+* 🔗 API Integrations
+* 📊 AI Dashboards
+* ⚡ Automated Lead & Customer Management
+* 🎙️ AI Voice Systems
+* 📄 AI Document / Resume Processing
+
+---
+
+# 💼 Services
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+* Responsive Websites
+* Business Websites
+* Web Applications
+* E-commerce Websites
+* SaaS Platforms
+* Admin Dashboards
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Automation
+
+* AI Agents
+* AI Chatbots
+* WhatsApp Automation
+* n8n Workflows
+* API Integrations
+* Business Process Automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎨 Frontend Development
+
+* React.js
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Responsive UI
+* Modern Web Interfaces
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Full-Stack Solutions
+
+* Node.js
+* Express.js
+* MongoDB
+* PostgreSQL
+* MySQL
+* REST APIs
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Currently Learning
+
+* 📊 Data Analytics
+* 📈 Business Intelligence
+* 🤖 Advanced AI Agents
+* 🧠 Agentic AI
+* ⚙️ Advanced Automation
+* ☁️ Modern Cloud Technologies
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+* 🚀 Startups
+* 💻 Web Applications
+* 🤖 AI Automation Projects
+* 🧠 AI Agent Systems
+* 🏥 Healthcare Software
+* 🛒 E-commerce Platforms
+* ☁️ SaaS Products
+* 🌐 Open Source Projects
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ghousdeveloper">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ghulam-ghous-36301b425/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:ghouskalwar@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Ask Me About
+
+**Frontend Development • React • Next.js • TypeScript • AI Automation • AI Agents • AI Chatbots • n8n • APIs • Full-Stack Development**
+
+---
+
+<div align="center">
+
+### 🚀 Building. Automating. Learning. Growing.
+
+**Thanks for visiting my GitHub profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="Footer"/>
+
+</div>

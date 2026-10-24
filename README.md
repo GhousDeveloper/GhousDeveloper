@@ -136,7 +136,7 @@ A Pakistan-focused e-commerce project featuring product browsing, shopping cart,
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhousDeveloper&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
+  <img src="./assets/contribution-graph.svg" width="100%" alt="Animated GitHub contribution graph"/>
 </p>
 
 ---

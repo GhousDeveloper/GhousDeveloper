@@ -128,7 +128,7 @@ A Pakistan-focused e-commerce project featuring product browsing, shopping cart,
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GhousDeveloper&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhousDeveloper&theme=tokyonight" width="100%" alt="GitHub Contribution Summary"/>
 </p>
 
 ---

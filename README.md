@@ -1,5 +1,3 @@
-# 👨‍💻 GHULAM GHOUS KALWAR
-
 <h1 align="center">Hi 👋, I'm Ghulam Ghous Kalwar</h1>
 
 <h3 align="center">

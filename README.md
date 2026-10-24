@@ -1,24 +1,193 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>Hi, I'm **Ghulam Ghous Kalwar**, a Full Stack Developer, AI Engineer, and AI Automation Specialist from Pakistan. I build modern web applications, AI-powered solutions, intelligent agents, and automation workflows that solve real-world problems.<br><br>🚀 Passionate about building scalable web applications and AI-driven products.<br><br>🤖 Exploring Generative AI, LLMs, AI Agents, and workflow automation with n8n.<br><br>💻 Working with React, Next.js, TypeScript, Node.js, Tailwind CSS, and modern backend technologies.<br><br>⚡ Using AI-assisted development to turn ideas into functional digital products.<br><br>🌱 Continuously learning, experimenting, and building projects to improve my technical skills.<br><br>🎯 My goal is to create innovative software solutions that help businesses grow and work smarter.<br><br>**“Building the future, one line of code and one AI-powered idea at a time.”**
+# 👨‍💻 GHULAM GHOUS KALWAR
 
+<h1 align="center">Hi 👋, I'm Ghulam Ghous Kalwar</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ghulamghous) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghulamghouskalwar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulamghouskalwar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ghous) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ghousdeveloper) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ghous Kalwar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghouskalwar@gmail.com) 
+<h3 align="center">
+Full Stack Developer • AI Engineer • AI Automation Specialist
+</h3>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=GhousDeveloper&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=GhousDeveloper&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=GhousDeveloper&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Engineer+%7C+AI+Agents;AI+Automation+Specialist;Building+AI-Powered+Web+Applications;Turning+Ideas+Into+Digital+Products" alt="Typing SVG" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GhousDeveloper&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Animated GitHub Banner"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=GhousDeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+
+👋 Hi, I'm **Ghulam Ghous Kalwar**, a developer from Pakistan passionate about web development, artificial intelligence, and business automation.
+
+- 💻 Building modern, responsive web applications.
+- 🤖 Exploring Generative AI, LLMs, and AI Agents.
+- ⚡ Creating automated workflows using n8n and APIs.
+- 🚀 Developing AI-powered products and SaaS platforms.
+- 🛠️ Working with React, Next.js, TypeScript, and modern backend technologies.
+- 🌱 Continuously improving my coding, debugging, and software development skills.
+- 🎯 Focused on building practical digital solutions for real-world problems.
+
+**My mission:** Build useful software that combines modern web technology with the power of AI.
+
+<br clear="right"/>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ghulam-ghous-kalwar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/GhulamGhous">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:ghouskalwar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/GhousDeveloper">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" alt="Frontend technologies"/>
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Backend technologies"/>
+</p>
+
+### 🗄️ Databases & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,mongodb,mysql" alt="Database technologies"/>
+</p>
+
+### 🤖 AI Engineering & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/AI_Agents-0066FF?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/n8n-AI_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Automation"/>
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" alt="REST APIs"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" alt="Developer tools"/>
+  <img src="https://img.shields.io/badge/Antigravity-AI_Development-6C5CE7?style=for-the-badge" alt="Antigravity"/>
+  <img src="https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. 🤖 Interview Mentor
+AI-assisted teacher recruitment and assessment SaaS designed to help schools organize candidate screening, voice interviews, and classroom simulations.
+
+### 2. ⚡ Ghous Solutions
+A business outreach and lead management platform concept focused on organizing leads, follow-ups, email campaigns, and workflow automation.
+
+### 3. 🌸 Naimas Perfume
+A modern perfume e-commerce frontend built with React, TypeScript, Vite, and Tailwind CSS.
+
+### 4. 🛒 Zero Bazar
+A Pakistan-focused e-commerce project featuring product browsing, shopping cart, wishlist, and coupon functionality.
+
+<p align="center">
+  <a href="https://github.com/GhousDeveloper?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=GhousDeveloper&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=GhousDeveloper&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GhousDeveloper&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhousDeveloper&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
+</p>
+
+---
+
+## 📋 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhousDeveloper&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhousDeveloper&theme=tokyonight" width="49%" alt="Repository Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhousDeveloper&theme=tokyonight" width="49%" alt="GitHub Stats Summary"/>
+</p>
+
+---
+
+## ✍️ Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+</p>
+
+---
+
+## 🤝 Let's Build Something Amazing
+
+I'm interested in connecting with developers, AI enthusiasts, startups, and businesses to explore ideas and build useful digital products.
+
+<p align="center">
+  <a href="https://linkedin.com/in/ghulam-ghous-kalwar/">
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:ghouskalwar@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GhousDeveloper&style=for-the-badge&color=0078FF" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/GhousDeveloper?style=for-the-badge&color=00C7B7" alt="GitHub Followers"/>
+</p>
+
+<p align="center">
+  <i>"Keep learning, keep building, and turn ideas into reality."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078FF,100:00F5FF&height=120&section=footer" width="100%" alt="Animated Footer"/>
+</p>

@@ -136,7 +136,7 @@ A Pakistan-focused e-commerce project featuring product browsing, shopping cart,
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="./assets/contribution-graph.svg" width="100%" alt="Animated GitHub contribution graph"/>
+  <img src="./graph.svg" width="100%" alt="Animated GitHub contribution graph"/>
 </p>
 
 ---

@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ghulam Ghous Kalwar</h1>
 
-<h3 align="center">
-Full Stack Developer • AI Engineer • AI Automation Specialist
-</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Engineer+%7C+AI+Agents;AI+Automation+Specialist;Building+AI-Powered+Web+Applications;Turning+Ideas+Into+Digital+Products" alt="Typing SVG" />
@@ -12,6 +8,11 @@ Full Stack Developer • AI Engineer • AI Automation Specialist
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Animated GitHub Banner"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Ghulam Ghous Kalwar</h1>
+
+<h3 align="center">
+Full Stack Developer • AI Engineer • AI Automation Specialist
+</h3>
 ---
 
 ## 💫 About Me
